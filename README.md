@@ -1,2 +1,2 @@
 ## Hardware Results
-![Blinking LEDs](ezgif-6119a522ac8ae454.gif)
+![Blinking LEDs](ezgif-8fe3ab2c25495b97.gif)
