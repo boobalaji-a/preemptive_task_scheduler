@@ -1,2 +1,2 @@
 ## Hardware Results
-![Blinking LEDs](ezgif-8fe3ab2c25495b97.gif)
+<video src="rr_scheduler.mp4" autoplay loop muted width="700"></video>
